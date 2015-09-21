@@ -1,0 +1,3 @@
+Isden needs:
+Tkintercomplete.py c.gif f.gif in the same dir
+apt-get install python-tk python-pmw gadfly
